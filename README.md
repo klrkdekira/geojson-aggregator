@@ -1,6 +1,6 @@
 # GeoJSON Aggregator
 
-Aggregate points against areas.
+Creates aggregates of points against areas.
 
 ## Usage
 
